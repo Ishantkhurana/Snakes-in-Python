@@ -53,7 +53,7 @@ def welcome():
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_RETURN:
                     pygame.mixer.music.load("bgm.mp3")
-                    pygame.mixer.music.play()
+                    pygame.mixer.music.play(loops=-1)
                     game_Loop()
         pygame.display.update()
         clock.tick(45)
