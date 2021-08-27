@@ -1,4 +1,4 @@
-Hey!👋👋This is a Snake Game🐍🎮 built in Python💻📝.To play this game just download the python on your pc and clone this repo on your pc and then open cmd in your cloned folder and run command "pip install pygame". and you are done then just enjoy this awesome Game.🎲🎮
+Hey!👋👋This is a Snake Game🐍🎮 built in Python💻📝.To play this game just download the python on your pc and clone this repo on your pc and then open cmd in your cloned folder and run command "pip install pygame". and then run the main.py file.And you are done then Just enjoy this awesome Game.🎲🎮
 Some of the Screenshots of the game are attached below.👇👇
 
 
